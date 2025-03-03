@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cuda Lab 5", "Cuda Lab 5\Cuda Lab 5.vcxproj", "{BAE6F456-1F92-449E-B52F-6AA22643DFC9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cuda Lab 5 Exercise 1.2", "Cuda Lab 5 Exercise 1.2\Cuda Lab 5 Exercise 1.2.vcxproj", "{86F0BB64-4152-4D58-884B-C467B3470D92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BAE6F456-1F92-449E-B52F-6AA22643DFC9}.Debug|x64.Build.0 = Debug|x64
 		{BAE6F456-1F92-449E-B52F-6AA22643DFC9}.Release|x64.ActiveCfg = Release|x64
 		{BAE6F456-1F92-449E-B52F-6AA22643DFC9}.Release|x64.Build.0 = Release|x64
+		{86F0BB64-4152-4D58-884B-C467B3470D92}.Debug|x64.ActiveCfg = Debug|x64
+		{86F0BB64-4152-4D58-884B-C467B3470D92}.Debug|x64.Build.0 = Debug|x64
+		{86F0BB64-4152-4D58-884B-C467B3470D92}.Release|x64.ActiveCfg = Release|x64
+		{86F0BB64-4152-4D58-884B-C467B3470D92}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

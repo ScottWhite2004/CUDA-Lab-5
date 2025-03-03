@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\CUDA-Lab-5\\Cuda Lab 5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86F0BB64-4152-4D58-884B-C467B3470D92}|Cuda Lab 5 Exercise 1.2\\Cuda Lab 5 Exercise 1.2.vcxproj|C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\CUDA-Lab-5\\Cuda Lab 5\\Cuda Lab 5 Exercise 1.2\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86F0BB64-4152-4D58-884B-C467B3470D92}|Cuda Lab 5 Exercise 1.2\\Cuda Lab 5 Exercise 1.2.vcxproj|solutionrelative:Cuda Lab 5 Exercise 1.2\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAE6F456-1F92-449E-B52F-6AA22643DFC9}|Cuda Lab 5\\Cuda Lab 5.vcxproj|C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\CUDA-Lab-5\\Cuda Lab 5\\Cuda Lab 5\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{BAE6F456-1F92-449E-B52F-6AA22643DFC9}|Cuda Lab 5\\Cuda Lab 5.vcxproj|solutionrelative:Cuda Lab 5\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\CUDA-Lab-5\\Cuda Lab 5\\Cuda Lab 5 Exercise 1.2\\kernel.cu",
+              "RelativeDocumentMoniker": "Cuda Lab 5 Exercise 1.2\\kernel.cu",
+              "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\CUDA-Lab-5\\Cuda Lab 5\\Cuda Lab 5 Exercise 1.2\\kernel.cu",
+              "RelativeToolTip": "Cuda Lab 5 Exercise 1.2\\kernel.cu",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-03T15:33:34.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kernel.cu",
               "DocumentMoniker": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\CUDA-Lab-5\\Cuda Lab 5\\Cuda Lab 5\\kernel.cu",
               "RelativeDocumentMoniker": "Cuda Lab 5\\kernel.cu",
               "ToolTip": "C:\\Users\\712769\\OneDrive - hull.ac.uk\\GitHub\\CUDA-Lab-5\\Cuda Lab 5\\Cuda Lab 5\\kernel.cu",
               "RelativeToolTip": "Cuda Lab 5\\kernel.cu",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAClAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-27T16:20:50.133Z",
               "EditorCaption": ""
