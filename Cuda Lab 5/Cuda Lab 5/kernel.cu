@@ -38,7 +38,7 @@ int main()
         }
     }
 
-    printf("Matrix %d %d %d %d %d %d %d %d", matrixC[0][0], matrixC[0][1], matrixC[1][0], matrixC[1][1], matrixC[2][0], matrixC[2][1], matrixC[3][0], matrixC[3][1]);
+    printf("Dot product of a and b \n%d %d \n%d %d \n%d %d \n%d %d\n", matrixC[0][0], matrixC[0][1], matrixC[1][0], matrixC[1][1], matrixC[2][0], matrixC[2][1], matrixC[3][0], matrixC[3][1]);
     return 0;
 }
 
